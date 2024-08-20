@@ -110,4 +110,6 @@ venv.bak/
 # data files (to big)
 data/celeba-dataset
 data/lego-brick-images
+data/epirecipes
+
 
